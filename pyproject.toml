@@ -8,4 +8,5 @@ dependencies = [
     "pymongo>=4.13.0",
     "python-dotenv>=1.1.0",
     "telethon>=1.40.0",
+    "Flask>=3.0.0"
 ]
